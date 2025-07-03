@@ -1,0 +1,26 @@
+[
+  {
+    "level": "error",
+    "message": "Something went wrong",
+    "resourceId": "server-1",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
+  },
+  {
+    "level": "error",
+    "message": "Something went wrong",
+    "resourceId": "server-1",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
+  }
+]
