@@ -34,5 +34,53 @@
     "metadata": {
       "info": "context here"
     }
+  },
+  {
+    "level": "info",
+    "message": "running on port 3000",
+    "resourceId": "server-2",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
+  },
+  {
+    "level": "debug",
+    "message": "look at line 30:72",
+    "resourceId": "server-2",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
+  },
+  {
+    "level": "debug",
+    "message": "look at line 68:788",
+    "resourceId": "server-2",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
+  },
+  {
+    "level": "error",
+    "message": "port already in use",
+    "resourceId": "server-2",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "traceId": "abc123",
+    "spanId": "span123",
+    "commit": "a1b2c3",
+    "metadata": {
+      "info": "context here"
+    }
   }
 ]

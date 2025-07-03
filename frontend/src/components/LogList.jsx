@@ -1,7 +1,6 @@
-// src/components/LogList.jsx
 import React from "react";
 
-export default function LogList({ logs, loading }) {
+export default function LogList({ logs, setLogs, loading }) {
   if (loading) return <p>Loading logs...</p>;
   if (!logs.length) return <p>No logs found.</p>;
 
